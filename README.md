@@ -1,18 +1,20 @@
 # starterkit
 
-## folder structure
+A simple starterkit for basic web projects using autoprefixer, browser-sync, image minification & more.
 
-assets
-- css
-- js
-- images
+#### folder structure
 
-resources
-- scss
-- js
-- images
+- assets
+-- css
+-- js
+-- images
 
-## Command Line Stuff
+-resources
+-- scss
+-- js
+-- images
+
+#### Command Line Stuff
 
 - npm install
 - npm run watch
