@@ -1,2 +1,2 @@
-var test = 'hello1';
-var neil = 'gay';
+var test1 = 'option1';
+var test2 = 'option2';
